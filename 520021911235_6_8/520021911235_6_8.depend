@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1635598209 source:e:\cpp program\520021911235_6_8\main.cpp
+	<iostream>
+	"Child-SiblingLinkedList.h"
+
+1635603399 e:\cpp program\520021911235_6_8\child-siblinglinkedlist.h
+	<iostream>
+
+1636472178 source:e:\2021-2022-1\数据结构\my\520021911235_6_8\main.cpp
+	<iostream>
+	"Child-SiblingLinkedList.h"
+
+1636642807 e:\2021-2022-1\数据结构\my\520021911235_6_8\child-siblinglinkedlist.h
+	<iostream>
+

@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1638279941 source:e:\cpp program\520021911235_9_15\main.cpp
+	<iostream>
+	"closeHashTable.h"
+
+1638283878 e:\cpp program\520021911235_9_15\closehashtable.h
+	<iostream>
+	<cmath>
+
+1638283901 source:e:\2021-2022-1\数据结构\my\520021911235_9_15\main.cpp
+	<iostream>
+	"closeHashTable.h"
+
+1638283878 e:\2021-2022-1\数据结构\my\520021911235_9_15\closehashtable.h
+	<iostream>
+	<cmath>
+

@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1633427575 source:e:\cpp program\520021911235_2_6\main.cpp
+	<iostream>
+	"Linklist.h"
+
+1633426269 e:\cpp program\520021911235_2_6\linklist.h
+	<iostream>
+
+1633427575 source:e:\2021-2022-1\数据结构\my\520021911235_2_6\520021911235_2_6\main.cpp
+	<iostream>
+	"Linklist.h"
+
+1633426269 e:\2021-2022-1\数据结构\my\520021911235_2_6\520021911235_2_6\linklist.h
+	<iostream>
+
+1633427575 source:e:\2021-2022-1\数据结构\my\2\520021911235_2_6\520021911235_2_6\main.cpp
+	<iostream>
+	"Linklist.h"
+
+1633426269 e:\2021-2022-1\数据结构\my\2\520021911235_2_6\520021911235_2_6\linklist.h
+	<iostream>
+
+1633427575 source:c:\users\huawei\desktop\520021911235_2_6\520021911235_2_6\main.cpp
+	<iostream>
+	"Linklist.h"
+
+1633426269 c:\users\huawei\desktop\520021911235_2_6\520021911235_2_6\linklist.h
+	<iostream>
+

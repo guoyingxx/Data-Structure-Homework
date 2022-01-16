@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1634569486 source:e:\cpp program\520021911235_4\main.cpp
+	<iostream>
+	"simulator.h"
+
+1634911911 e:\cpp program\520021911235_4\simulator.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1634569486 source:e:\2021-2022-1\数据结构\my\520021911235_4\main.cpp
+	<iostream>
+	"simulator.h"
+
+1635003310 e:\2021-2022-1\数据结构\my\520021911235_4\simulator.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1634569486 source:e:\2021-2022-1\数据结构\my\队列仿真\main.cpp
+	<iostream>
+	"simulator.h"
+
+1637405986 e:\2021-2022-1\数据结构\my\队列仿真\simulator.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+

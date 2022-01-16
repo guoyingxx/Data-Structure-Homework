@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1637503528 source:e:\cpp program\520021911235_9_3\main.cpp
+	<iostream>
+	"BinarySearchTree.h"
+
+1637503569 e:\cpp program\520021911235_9_3\binarysearchtree.h
+	<iostream>
+
+1637503528 source:e:\2021-2022-1\数据结构\my\520021911235_9_3\main.cpp
+	<iostream>
+	"BinarySearchTree.h"
+
+1637503569 e:\2021-2022-1\数据结构\my\520021911235_9_3\binarysearchtree.h
+	<iostream>
+

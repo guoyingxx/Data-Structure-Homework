@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1636270112 source:e:\cpp program\520021911235_8_3\main.cpp
+	<iostream>
+	"set.h"
+
+1636270080 e:\cpp program\520021911235_8_3\set.h
+	<iostream>
+
+1636297685 source:e:\2021-2022-1\数据结构\my\520021911235_8_3\main.cpp
+	<iostream>
+	"set.h"
+
+1636299494 e:\2021-2022-1\数据结构\my\520021911235_8_3\set.h
+	<iostream>
+

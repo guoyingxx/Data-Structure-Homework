@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1640400093 source:e:\cpp program\520021911235_13_7\adjlistgraph.cpp
+	"adjListGraph.h"
+
+1640400093 e:\cpp program\520021911235_13_7\adjlistgraph.h
+	<iostream>
+
+1640400502 source:e:\cpp program\520021911235_13_7\main.cpp
+	<iostream>
+	"adjListGraph.h"
+	"adjListGraph.cpp"
+
+1640400093 e:\cpp program\520021911235_13_7\adjlistgraph.cpp
+	"adjListGraph.h"
+
+1640400093 source:e:\2021-2022-1\数据结构\my\520021911235_13_7\adjlistgraph.cpp
+	"adjListGraph.h"
+
+1640400093 e:\2021-2022-1\数据结构\my\520021911235_13_7\adjlistgraph.h
+	<iostream>
+
+1640487506 source:e:\2021-2022-1\数据结构\my\520021911235_13_7\main.cpp
+	<iostream>
+	"adjListGraph.h"
+	"adjListGraph.cpp"
+
+1640400093 e:\2021-2022-1\数据结构\my\520021911235_13_7\adjlistgraph.cpp
+	"adjListGraph.h"
+

@@ -1,0 +1,13 @@
+//用友元函数重载+
+template<class T>
+seqList<T> operator+(const seqList<T> &x1,const seqList<T> &x2)
+{
+    seqList<T> tmp(x1.currentLength+x2.currentLength);//构造线性表，容量为两线性表长度和
+    int i,j;
+    for(i=0;i<x1.currentLength;i++)
+    tmp.data[i]=x1.data[i];//将一表数据存入
+    for(j=0;j<x2.currentLength;j++)
+    tmp.data[i++]=x2.data[j];//从该表后一位置继续存入另一表数据
+    tmp.currentLength=x1.currentLength+x2.currentLength;//设置线性表长度
+    return tmp;
+}
